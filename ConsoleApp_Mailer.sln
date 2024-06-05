@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Mailer", "ConsoleApp_Mailer\ConsoleApp_Mailer.csproj", "{C40DB10A-0125-451B-9C20-DF92E8E3CC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C40DB10A-0125-451B-9C20-DF92E8E3CC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40DB10A-0125-451B-9C20-DF92E8E3CC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40DB10A-0125-451B-9C20-DF92E8E3CC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40DB10A-0125-451B-9C20-DF92E8E3CC70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C421088-F65D-4587-B633-02C36B1B9D76}
+	EndGlobalSection
+EndGlobal
